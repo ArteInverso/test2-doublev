@@ -1,0 +1,119 @@
+{
+  "format": 1,
+  "restore": {
+    "J:\\Curso\\blockchain\\prueba 2\\prueba 2.csproj": {}
+  },
+  "projects": {
+    "J:\\Curso\\blockchain\\prueba 2\\prueba 2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\Curso\\blockchain\\prueba 2\\prueba 2.csproj",
+        "projectName": "prueba 2",
+        "projectPath": "J:\\Curso\\blockchain\\prueba 2\\prueba 2.csproj",
+        "packagesPath": "C:\\Users\\artei\\.nuget\\packages\\",
+        "outputPath": "J:\\Curso\\blockchain\\prueba 2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\artei\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "BIP39": {
+              "target": "Package",
+              "version": "[1.0.1.1, )"
+            },
+            "BIP39-NET": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Bip39Words": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "NBitcoin": {
+              "target": "Package",
+              "version": "[7.0.27, )"
+            },
+            "Nethereum.Accounts": {
+              "target": "Package",
+              "version": "[4.14.0, )"
+            },
+            "Nethereum.HdWallet": {
+              "target": "Package",
+              "version": "[4.14.0, )"
+            },
+            "Nethereum.Hex": {
+              "target": "Package",
+              "version": "[4.14.0, )"
+            },
+            "Nethereum.KeyStore": {
+              "target": "Package",
+              "version": "[4.14.0, )"
+            },
+            "Nethereum.Model": {
+              "target": "Package",
+              "version": "[4.14.0, )"
+            },
+            "Nethereum.Signer": {
+              "target": "Package",
+              "version": "[4.14.0, )"
+            },
+            "Nethereum.Util": {
+              "target": "Package",
+              "version": "[4.14.0, )"
+            },
+            "Nethereum.Web3": {
+              "target": "Package",
+              "version": "[4.14.0, )"
+            },
+            "System.Runtime.CompilerServices.Unsafe": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "dotnetstandard-bip39": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

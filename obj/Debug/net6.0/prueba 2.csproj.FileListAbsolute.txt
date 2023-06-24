@@ -1,0 +1,42 @@
+J:\Curso\blockchain\prueba 2\obj\Debug\net6.0\prueba 2.csproj.AssemblyReference.cache
+J:\Curso\blockchain\prueba 2\obj\Debug\net6.0\prueba 2.GeneratedMSBuildEditorConfig.editorconfig
+J:\Curso\blockchain\prueba 2\obj\Debug\net6.0\prueba 2.AssemblyInfoInputs.cache
+J:\Curso\blockchain\prueba 2\obj\Debug\net6.0\prueba 2.AssemblyInfo.cs
+J:\Curso\blockchain\prueba 2\obj\Debug\net6.0\prueba 2.csproj.CoreCompileInputs.cache
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\prueba 2.exe
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\prueba 2.deps.json
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\prueba 2.runtimeconfig.json
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\prueba 2.dll
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\prueba 2.pdb
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\BIP39.dll
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\BIP39.NET.dll
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\Bip39Words.dll
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\dotnetstandard-bip39.dll
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\NBitcoin.dll
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\NBitcoin.Secp256k1.dll
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\Nethereum.ABI.dll
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\Nethereum.Accounts.dll
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\Nethereum.BlockchainProcessing.dll
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\Nethereum.Contracts.dll
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\Nethereum.HdWallet.dll
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\Nethereum.Hex.dll
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\Nethereum.JsonRpc.Client.dll
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\Nethereum.JsonRpc.RpcClient.dll
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\Nethereum.KeyStore.dll
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\Nethereum.Merkle.Patricia.dll
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\Nethereum.Model.dll
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\Nethereum.RLP.dll
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\Nethereum.RPC.dll
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\Nethereum.Signer.dll
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\Nethereum.Signer.EIP712.dll
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\Nethereum.Util.dll
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\Nethereum.Web3.dll
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\Newtonsoft.Json.dll
+J:\Curso\blockchain\prueba 2\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+J:\Curso\blockchain\prueba 2\obj\Debug\net6.0\prueba 2.csproj.CopyComplete
+J:\Curso\blockchain\prueba 2\obj\Debug\net6.0\prueba 2.dll
+J:\Curso\blockchain\prueba 2\obj\Debug\net6.0\refint\prueba 2.dll
+J:\Curso\blockchain\prueba 2\obj\Debug\net6.0\prueba 2.pdb
+J:\Curso\blockchain\prueba 2\obj\Debug\net6.0\prueba 2.genruntimeconfig.cache
+J:\Curso\blockchain\prueba 2\obj\Debug\net6.0\ref\prueba 2.dll
