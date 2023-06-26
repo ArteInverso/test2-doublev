@@ -5,7 +5,7 @@ using Nethereum.HdWallet;
 using Nethereum.Signer;
 using Nethereum.Util;
 
-namespace TuNamespace
+namespace GeneradorEthereumWallet
 {
     class Program
     {
@@ -45,7 +45,7 @@ namespace TuNamespace
             var hdWallet = new Wallet(seed, "m/44'/60'/0'/0/0");
             var account = hdWallet.GetAccount(0);
 
-            // Obtener la dirección de la cuenta en minúsculas
+            // Obtener la dirección de la de ethereum
             var address = account.Address.ToLower();
             Console.WriteLine("\nDirección de la wallet Ethereum:");
             Console.WriteLine(address);
